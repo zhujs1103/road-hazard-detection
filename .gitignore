@@ -1,0 +1,12 @@
+__pycache__/
+.venv/
+venv/
+data/
+outputs/
+third_party/
+*.pt
+*.pth
+*.onnx
+*.engine
+*.mp4
+*.avi

@@ -1,0 +1,19 @@
+# Install PyTorch separately first:
+# pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu128
+
+beautifulsoup4>=4.12
+ensemble-boxes>=1.0.9
+gdown>=5.2
+loguru>=0.7
+matplotlib>=3.9
+numpy>=1.26
+opencv-python>=4.10
+pandas>=2.2
+pillow>=10.4
+pycocotools>=2.0.8
+pyyaml>=6.0
+scikit-learn>=1.3
+seaborn>=0.13
+tabulate>=0.9
+tqdm>=4.66
+ultralytics>=8.3
